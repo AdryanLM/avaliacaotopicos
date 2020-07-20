@@ -1,0 +1,26 @@
+{
+  "membros": [
+    {
+      "id": 1,
+      "avatar_url": "https://news.gympass.com/wp-content/uploads/2018/07/escolher-a-melhor-academia.jpg",
+      "name": "pedro",
+      "email": "teste@gmail.com",
+      "birth": 593308800000,
+      "gender": "M",
+      "blood": "B+",
+      "weight": "70",
+      "height": "180"
+    }
+  ],
+  "instrutores": [
+    {
+      "id": 1,
+      "avatar_url": "https://news.gympass.com/wp-content/uploads/2018/07/escolher-a-melhor-academia.jpg",
+      "name": "bruno",
+      "birth": "1996-02-22",
+      "gender": "M",
+      "services": "musculação",
+      "created_at": 1594936114725
+    }
+  ]
+}
